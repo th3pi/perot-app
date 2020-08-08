@@ -1,0 +1,25 @@
+{
+  "name": "perot-backend",
+  "version": "0.0.1",
+  "description": "REST API Backend for perot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/app.js",
+    "startWin": "nodemon src/app.jsnodemon src/app.js & mongodb\\bin\\mongod.exe -dbpath=../perot-db --bind_ip 0.0.0.0",
+    "database": "mongodb/bin/mongod -dbpath=../perot-db --bind_ip 0.0.0.0",
+    "databaseWin": "mongodb\\bin\\mongod.exe -dbpath=../perot-db --bind_ip 0.0.0.0",
+    "startAws": "sudo pm2 start src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "mongoose": "^5.9.24",
+    "node-ip": "^0.1.2",
+    "nodemon": "^2.0.4",
+    "yargs": "^15.4.1"
+  }
+}

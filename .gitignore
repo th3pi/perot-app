@@ -1,0 +1,6 @@
+node_modules/
+perot-db/
+mongodb/
+.expo/
+.expo-shared/
+perotExperience/src/modules/api_kit/api_kit.js
