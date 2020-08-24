@@ -1,12 +1,10 @@
-﻿# Perot Experience
+# Perot App - [Promo Video](bit.ly/teamOnePromo)
 
-Instructions on how to run locally.
+Perot App is a collection of two full-stack applications built for the Perot Museum located in Dallas, TX:
+1. **Perot Service** - A webapp for the Perot Employees/Volunteers to manage content served on the Perot Experience mobile app.
+2. **Perot Experience** - An Android/iOS app that focuses on user engagement within the Perot Museum with interactive games and activities. Perot Experience also creates a curated (by the employees through the Perot Service app) museum experience for guests to manage traffic throughout the museum. 
 
-### Clone the project to your local system
-
-`git clone https://<your-git-username>@bitbucket.org/t4sg/isg-perot-museum-team-1.git`
-
-## Prerequisites
+## Prerequisites to run locally
 
 - `nodejs` - [instructions](https://nodejs.org/en/download/)
 - `watchman` - [instructions](https://facebook.github.io/watchman/docs/install.html)
