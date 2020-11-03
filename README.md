@@ -1,4 +1,4 @@
-# Perot App - [Promo Video](bit.ly/teamOnePromo)
+# Perot App - [Promo Video](https://youtu.be/lCirZUXoW6E)
 
 Perot App is a collection of two full-stack applications built for the Perot Museum located in Dallas, TX:
 1. **Perot Service** - A webapp for the Perot Employees/Volunteers to manage content served on the Perot Experience mobile app.
